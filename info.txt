@@ -1,0 +1,19 @@
+# Previsionary title:
+- “The language goldmine: Find freely available linguistic data”
+
+# Provisionary description:
+“This page provides a list of links and a search function for a whole set of linguistic databases. The purpose of this webpage is to facilitate finding data sources that are relevant to your research question, as well as to explore what is out there in the world of freely available linguistic web data.”
+
+# Authors (& Impressum):
+- Johann Mattis-List, Bodo Winter
+
+# Contributors:
+- Bodo Winter, Andy Wedel, …
+
+# Description of databases.tv:
+- URL: contains URLs to webpages on which data sources are hosted
+- Title: Provisionary title for that database entry (e.g., the primary name of the database)
+- Description: Short, one sentence description of what is contained in the database.
+- Tags: Different tags separated by commata
+- Languages: “multi” if it’s a typological database that contains tons of languages; otherwise the language is listed
+- Associated Publication: APA style reference of the associated population that describes the data or that was used to publish the data
