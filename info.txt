@@ -10,7 +10,7 @@
 # Contributors:
 - Bodo Winter, Andy Wedel, …
 
-# Description of databases.tv:
+# Description of databases.tsv:
 - URL: contains URLs to webpages on which data sources are hosted
 - Title: Provisionary title for that database entry (e.g., the primary name of the database)
 - Description: Short, one sentence description of what is contained in the database.
